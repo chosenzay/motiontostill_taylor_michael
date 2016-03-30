@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="Taylor&amp;Michael_Montiontostill.com" resolutions="1x" timestamp="1458946694770">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="Taylor&amp;Michael_Montiontostill.com" resolutions="1x" timestamp="1459353708377">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="528599690" ref="index"/>
+    <file name="index.css" crc="87163235" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="484278746" ref="index"/>
@@ -27,5 +27,5 @@
     <file name="letter_f.gif" crc="3976582730" seo="true" ref="index"/>
     <file name="letter_i.gif" crc="4098728168" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4067618262" seo="true" mt="1458946582315" redirect="true"/>
+  <file name="index.html" crc="4077528178" seo="true" mt="1459353633356" redirect="true"/>
 </manifest>
