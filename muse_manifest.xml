@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="Taylor&amp;Michael_Montiontostill.com" resolutions="1x" timestamp="1459375002979">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="Taylor&amp;Michael_Montiontostill.com" resolutions="1x" timestamp="1459651329466">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="4109226542" ref="index"/>
-    <file name="motiontostill_taylor.css" crc="4142174909" ref="motiontostill_taylor"/>
+    <file name="index.css" crc="4103418931" ref="index"/>
+    <file name="motiontostill_taylor.css" crc="227254280" ref="motiontostill_taylor"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:motiontostill_taylor"/>
@@ -27,7 +27,7 @@
     <file name="letter_d.gif" crc="48791074" seo="true" ref="index"/>
     <file name="letter_f.gif" crc="3976582730" seo="true" ref="index"/>
     <file name="letter_i.gif" crc="4098728168" seo="true" ref="index"/>
-    <file name="b_0318162.gif" crc="3765279866" ref="motiontostill_taylor"/>
+    <file name="b_0318162.gif" crc="3765279866" ref="motiontostill_taylor:index"/>
     <file name="letter_b2.gif" crc="4283508560" ref="motiontostill_taylor"/>
     <file name="n_0325162.gif" crc="3935130403" ref="motiontostill_taylor"/>
     <file name="letter_n2.gif" crc="375666238" ref="motiontostill_taylor"/>
@@ -42,6 +42,6 @@
     <file name="i_0318162.gif" crc="4243094205" ref="motiontostill_taylor"/>
     <file name="letter_i2.gif" crc="4098728168" ref="motiontostill_taylor"/>
   </folder>
-  <file name="index.html" crc="4015169670" seo="true" mt="1459374875915" redirect="true"/>
-  <file name="motiontostill_taylor.html" crc="4037305970" seo="true" mt="1459374913947" redirect="true"/>
+  <file name="index.html" crc="3910551226" seo="true" mt="1459651285248" redirect="true"/>
+  <file name="motiontostill_taylor.html" crc="3957413766" seo="true" mt="1459651264091" redirect="true"/>
 </manifest>

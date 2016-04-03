@@ -1,7 +1,7 @@
 .version.motiontostill_taylor /* version checker */
 {
-	color: #0000F6;
-	background-color: #E492BD;
+	color: #00000D;
+	background-color: #8BA008;
 }
 
 #page
@@ -385,7 +385,7 @@
 
 #pu1325
 {
-	width: 59.59%;
+	width: 59.82%;
 	margin-left: 40.42%;
 }
 
@@ -396,20 +396,21 @@
 	padding-bottom: 4px;
 	position: relative;
 	margin-right: -10000px;
-	width: 46.52%;
+	width: 46.34%;
 }
 
 #u1325:hover
 {
-	background-color: #00FFFF;
 	min-height: 0px;
-	width: 46.52%;
+	width: 46.34%;
 	margin: 0px -10000px 0px 0%;
+	background: transparent url("../images/letter_b2.gif") no-repeat center center;
+	background-size: contain;
 }
 
 #u1327-4
 {
-	z-index: 49;
+	z-index: 48;
 	min-height: 21px;
 	background-color: transparent;
 	text-align: center;
@@ -421,9 +422,23 @@
 	left: 2.5%;
 }
 
+#u1328-4
+{
+	z-index: 52;
+	min-height: 21px;
+	background-color: transparent;
+	text-align: center;
+	font-family: Comic Sans, Comic Sans MS, cursive;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	width: 44.02%;
+	left: 54.45%;
+}
+
 #u1329-4
 {
-	z-index: 57;
+	z-index: 56;
 	min-height: 16px;
 	background-color: transparent;
 	text-align: center;
@@ -431,33 +446,18 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 4px;
-	width: 6.21%;
-	left: 46.9%;
+	width: 6.18%;
+	left: 46.72%;
 }
 
-#u1326
+#u1340
 {
-	z-index: 48;
-	background-color: #00FFFF;
-	padding-bottom: 4px;
+	z-index: 60;
+	height: 30px;
 	position: relative;
 	margin-right: -10000px;
-	width: 46.52%;
-	left: 53.49%;
-}
-
-#u1328-4
-{
-	z-index: 53;
-	min-height: 21px;
-	background-color: transparent;
-	text-align: center;
-	font-family: Comic Sans, Comic Sans MS, cursive;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 5px;
-	width: 95%;
-	left: 2.5%;
+	width: 46.34%;
+	left: 53.67%;
 }
 
 #u888
@@ -497,7 +497,7 @@
 	width: 100%;
 }
 
-.ie #u1017
+.ie #u1340,.ie #u1017
 {
 	background-color: #FFFFFF;
 	opacity: 0.01;
