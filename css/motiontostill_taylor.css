@@ -1,19 +1,19 @@
 .version.motiontostill_taylor /* version checker */
 {
-	color: #00001D;
-	background-color: #12AE93;
+	color: #0000E7;
+	background-color: #E72E32;
 }
 
 #page
 {
 	z-index: 1;
-	min-height: 417.90000000000236px;
+	min-height: 417.8500000000022px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
 	padding-top: 20px;
-	padding-bottom: 62.099999999997635px;
+	padding-bottom: 62.14999999999782px;
 	width: 100%;
 	max-width: 1000px;
 	margin-left: auto;
@@ -22,8 +22,8 @@
 
 #pu1373
 {
-	width: 17.4%;
-	margin-left: 80.61%;
+	width: 17.7%;
+	margin-left: 80.31%;
 }
 
 #u1373
@@ -33,13 +33,13 @@
 	padding-bottom: 9px;
 	position: relative;
 	margin-right: -10000px;
-	width: 45.41%;
+	width: 47.46%;
 }
 
 #u1373:hover
 {
 	min-height: 0px;
-	width: 45.41%;
+	width: 47.46%;
 	margin: 0px -10000px 0px 0%;
 	background: transparent url("../images/letter_b2.gif") no-repeat center center;
 	background-size: contain;
@@ -59,8 +59,8 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 9px;
-	width: 96.21%;
-	left: 1.27%;
+	width: 90.48%;
+	left: 4.77%;
 }
 
 #u1383-4:hover
@@ -68,7 +68,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 8px;
-	width: 96.21%;
+	width: 90.48%;
 	margin: 9px -10000px 0px 0%;
 }
 
@@ -85,8 +85,8 @@
 	padding-bottom: 9px;
 	position: relative;
 	margin-right: -10000px;
-	width: 45.41%;
-	left: 54.6%;
+	width: 47.46%;
+	left: 52.55%;
 }
 
 #u1372-4
@@ -103,8 +103,8 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 9px;
-	width: 82.28%;
-	left: 8.87%;
+	width: 91.67%;
+	left: 3.58%;
 }
 
 #u1372-4.MuseLinkActive
@@ -112,7 +112,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 10px;
-	width: 82.28%;
+	width: 91.67%;
 	margin: 9px -10000px 0px 0%;
 }
 
