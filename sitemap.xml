@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://Taylor&amp;Michael_Montiontostill.com/images/letter_b.gif</loc>
-    <lastmod>2016-04-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://Taylor&amp;Michael_Montiontostill.com/images/letter_n.gif</loc>
     <lastmod>2016-04-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -38,6 +32,12 @@
   </url>
   <url>
     <loc>http://Taylor&amp;Michael_Montiontostill.com/images/letter_i.gif</loc>
+    <lastmod>2016-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Taylor&amp;Michael_Montiontostill.com/images/letter_b2.gif</loc>
     <lastmod>2016-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

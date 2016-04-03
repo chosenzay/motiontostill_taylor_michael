@@ -1,0 +1,47 @@
+#u1412
+{
+	background-color: transparent;
+}
+
+#u1412:hover
+{
+	background: transparent url("../images/letter_b.gif") no-repeat center center;
+	background-size: contain;
+}
+
+#u1415-4
+{
+	background-color: transparent;
+	color: #7F7F7F;
+	line-height: 12px;
+	text-align: center;
+	font-size: 10px;
+}
+
+#u1415-4:hover,#u1406
+{
+	background-color: transparent;
+}
+
+#u1406:hover
+{
+	background: transparent url("../images/b_031816.gif") no-repeat center center;
+	background-size: contain;
+}
+
+#u1418-4
+{
+	background-color: transparent;
+	color: #7F7F7F;
+	line-height: 12px;
+	text-align: center;
+	font-size: 10px;
+}
+
+#u1415-4:hover p,#u1418-4:hover p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+
