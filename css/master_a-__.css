@@ -1,6 +1,7 @@
-#u1412
+#u1406:hover
 {
-	background-color: transparent;
+	background: transparent url("../images/b_031816.gif") no-repeat center center;
+	background-size: contain;
 }
 
 #u1412:hover
@@ -18,15 +19,9 @@
 	font-size: 10px;
 }
 
-#u1415-4:hover,#u1406
+#u1406,#u1412,#u1415-4:hover
 {
 	background-color: transparent;
-}
-
-#u1406:hover
-{
-	background: transparent url("../images/b_031816.gif") no-repeat center center;
-	background-size: contain;
 }
 
 #u1418-4
