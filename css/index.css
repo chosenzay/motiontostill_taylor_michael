@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000002;
-	background-color: #93F5FF;
+	color: #000004;
+	background-color: #6D98E9;
 }
 
 #page
@@ -34,7 +34,7 @@
 	position: relative;
 	width: 94.79%;
 	margin-left: 5.22%;
-	background: transparent url("../images/b.gif") no-repeat center center;
+	background: transparent url("../images/b2.gif") no-repeat center center;
 	background-size: contain;
 }
 
@@ -44,7 +44,7 @@
 	min-height: 0px;
 	width: 94.79%;
 	margin: 0px 0px 0px 5.213270142180095%;
-	background: transparent url("../images/b_031816.gif") no-repeat center center;
+	background: transparent url("../images/041616.gif") no-repeat center center;
 	background-size: contain;
 }
 
@@ -55,7 +55,7 @@
 	margin-top: 400px;
 	position: relative;
 	width: 94.79%;
-	background: transparent url("../images/n1.gif") no-repeat center center;
+	background: transparent url("../images/n11.gif") no-repeat center center;
 	background-size: contain;
 }
 
@@ -76,7 +76,7 @@
 	margin-top: 400px;
 	position: relative;
 	width: 94.79%;
-	background: transparent url("../images/a1.gif") no-repeat center center;
+	background: transparent url("../images/a11.gif") no-repeat center center;
 	background-size: contain;
 }
 
@@ -87,7 +87,7 @@
 	margin-top: 400px;
 	position: relative;
 	width: 94.79%;
-	background: transparent url("../images/a3.gif") no-repeat center center;
+	background: transparent url("../images/a31.gif") no-repeat center center;
 	background-size: contain;
 }
 
@@ -98,7 +98,7 @@
 	margin-top: 400px;
 	position: relative;
 	width: 94.79%;
-	background: transparent url("../images/a1.gif") no-repeat center center;
+	background: transparent url("../images/a11.gif") no-repeat center center;
 	background-size: contain;
 }
 
@@ -119,7 +119,7 @@
 	margin-top: 400px;
 	position: relative;
 	width: 94.79%;
-	background: transparent url("../images/r.gif") no-repeat center center;
+	background: transparent url("../images/r2.gif") no-repeat center center;
 	background-size: contain;
 }
 
@@ -147,7 +147,7 @@
 	height: 400px;
 	position: relative;
 	width: 97.57%;
-	background: transparent url("../images/a1.gif") no-repeat center center;
+	background: transparent url("../images/a11.gif") no-repeat center center;
 	background-size: contain;
 }
 
@@ -169,7 +169,7 @@
 	position: relative;
 	width: 97.57%;
 	margin-left: 2.44%;
-	background: transparent url("../images/d.gif") no-repeat center center;
+	background: transparent url("../images/d1.gif") no-repeat center center;
 	background-size: contain;
 }
 
@@ -179,7 +179,7 @@
 	min-height: 0px;
 	width: 97.57%;
 	margin: 400px 0px 0px 2.4390243902439024%;
-	background: transparent url("../images/d_031816.gif") no-repeat center center;
+	background: transparent url("../images/041616%20(1).gif") no-repeat center center;
 	background-size: cover;
 }
 
@@ -191,7 +191,7 @@
 	position: relative;
 	width: 97.57%;
 	margin-left: 2.44%;
-	background: transparent url("../images/n1.gif") no-repeat center center;
+	background: transparent url("../images/n11.gif") no-repeat center center;
 	background-size: contain;
 }
 
@@ -213,7 +213,7 @@
 	position: relative;
 	width: 97.57%;
 	margin-left: 2.44%;
-	background: transparent url("../images/f.gif") no-repeat center center;
+	background: transparent url("../images/f1.gif") no-repeat center center;
 	background-size: contain;
 }
 
@@ -223,7 +223,7 @@
 	min-height: 0px;
 	width: 97.57%;
 	margin: 400px 0px 0px 2.4390243902439024%;
-	background: transparent url("../images/f_031816.gif") no-repeat center center;
+	background: transparent url("../images/f_040816_2.gif") no-repeat center center;
 	background-size: cover;
 }
 
@@ -235,7 +235,7 @@
 	position: relative;
 	width: 97.57%;
 	margin-left: 2.44%;
-	background: transparent url("../images/i.gif") no-repeat right center;
+	background: transparent url("../images/i1.gif") no-repeat right center;
 	background-size: contain;
 }
 

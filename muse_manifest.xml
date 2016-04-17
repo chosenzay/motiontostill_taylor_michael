@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="Taylor&amp;Michael_Montiontostill.com" resolutions="1x" timestamp="1460771719028">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="Taylor&amp;Michael_Montiontostill.com" resolutions="1x" timestamp="1460857720916">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="43251199" ref="index"/>
-    <file name="motiontostill_taylor.css" crc="4052325883" ref="motiontostill_taylor"/>
+    <file name="index.css" crc="74291433" ref="index"/>
+    <file name="motiontostill_taylor.css" crc="361131133" ref="motiontostill_taylor"/>
     <file name="master_a-__.css" crc="3900096263" ref="index:motiontostill_taylor"/>
   </folder>
   <folder name="scripts">
@@ -13,27 +13,27 @@
     <file name="jquery.watch.js" crc="3866665977" ref="index:motiontostill_taylor"/>
   </folder>
   <folder name="images">
-    <file name="b_031816.gif" crc="3765279866" ref="index:motiontostill_taylor"/>
-    <file name="d_031816.gif" crc="4031941188" ref="index:motiontostill_taylor"/>
+    <file name="b_031816.gif" crc="3765279866" ref="index"/>
+    <file name="d_031816.gif" crc="4031941188" ref="motiontostill_taylor"/>
     <file name="letter_b.gif" crc="4283508560" ref="index"/>
     <file name="r_032516.gif" crc="214942860" ref="index"/>
-    <file name="f_031816.gif" crc="199544164" ref="index:motiontostill_taylor"/>
+    <file name="f_031816.gif" crc="199544164" ref="motiontostill_taylor"/>
     <file name="r_0325162.gif" crc="214942860" ref="motiontostill_taylor"/>
-    <file name="d_0318162.gif" crc="4031941188" ref="motiontostill_taylor"/>
-    <file name="f_0318162.gif" crc="199544164" ref="motiontostill_taylor"/>
-    <file name="b.gif" crc="148305494" ref="index:motiontostill_taylor"/>
-    <file name="n1.gif" crc="3901251496" ref="index:motiontostill_taylor"/>
     <file name="n_040816_2.gif" crc="4053720568" ref="index:motiontostill_taylor"/>
-    <file name="a1.gif" crc="4126732764" ref="index"/>
     <file name="a_040816_1.gif" crc="384443784" ref="index:motiontostill_taylor"/>
-    <file name="a3.gif" crc="465480107" ref="index:motiontostill_taylor"/>
-    <file name="r.gif" crc="3985148721" ref="index:motiontostill_taylor"/>
-    <file name="d.gif" crc="472425911" ref="index:motiontostill_taylor"/>
-    <file name="f.gif" crc="224500349" ref="index:motiontostill_taylor"/>
-    <file name="i.gif" crc="4275905676" ref="index:motiontostill_taylor"/>
     <file name="i_040816.gif" crc="162793530" ref="index:motiontostill_taylor"/>
-    <file name="a4.gif" crc="4126732764" ref="motiontostill_taylor"/>
+    <file name="b2.gif" crc="3868778813" ref="index:motiontostill_taylor"/>
+    <file name="041616.gif" crc="3891826744" ref="index:motiontostill_taylor"/>
+    <file name="n11.gif" crc="63362176" ref="index:motiontostill_taylor"/>
+    <file name="a11.gif" crc="346059675" ref="index:motiontostill_taylor"/>
+    <file name="a31.gif" crc="334147710" ref="index:motiontostill_taylor"/>
+    <file name="r2.gif" crc="3795356500" ref="index:motiontostill_taylor"/>
+    <file name="d1.gif" crc="69630170" ref="index:motiontostill_taylor"/>
+    <file name="041616 (1).gif" crc="318463820" ref="index:motiontostill_taylor"/>
+    <file name="f1.gif" crc="3932055054" ref="index:motiontostill_taylor"/>
+    <file name="f_040816_2.gif" crc="16064750" ref="index:motiontostill_taylor"/>
+    <file name="i1.gif" crc="160586925" ref="index:motiontostill_taylor"/>
   </folder>
-  <file name="index.html" crc="234548440" seo="true" mt="1460771097120" redirect="true"/>
-  <file name="motiontostill_taylor.html" crc="391615821" seo="true" mt="1460771635840" redirect="true"/>
+  <file name="index.html" crc="176450029" seo="true" mt="1460857589130" redirect="true"/>
+  <file name="motiontostill_taylor.html" crc="288012712" seo="true" mt="1460857709153" redirect="true"/>
 </manifest>
